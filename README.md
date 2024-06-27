@@ -35,5 +35,6 @@ Este projeto consiste em um script em Python que utiliza as bibliotecas openpyxl
     ```bash
     python automacao_consultas.py
     ```
+Este projeto é utilizado em conjunto do [Consultar CPF](https://github.com/mgabrielsr/Consultar-CPF) para uma solução completa de verificação e monitoramento de pagamentos.
 
 O script abrirá o navegador, realizará as consultas de pagamento e atualizará a planilha de fechamento automaticamente.
